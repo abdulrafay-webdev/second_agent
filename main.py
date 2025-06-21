@@ -10,7 +10,6 @@ from dotenv import load_dotenv
 load_dotenv()
 GEMINI_KEY = os.getenv("GEMINI_API_KEY")
 
-gemini_api_key = "AIzaSyByA-Ioxj0rJCVjR_rkoN7xgPUg66slOIA"
 
 
 # create client 
